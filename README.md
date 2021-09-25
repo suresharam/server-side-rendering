@@ -3,4 +3,4 @@ Server side rendering example
 
 
 # How to run
-`npmi && npm start`
+`npm i && npm start`
